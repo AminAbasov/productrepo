@@ -1,0 +1,7 @@
+spring:
+  datasource:
+    url: jdbc:mysql://localhost:3306/springrest  # Veril?nl?r bazas?n?n URL-si
+    username: root  # Veril?nl?r bazas? istifad?çi ad?
+    password: 12345  # Veril?nl?r bazas? ?ifr?si
+    driver-class-name: com.mysql.cj.jdbc.Driver  # JDBC driver-?n ad?
+
